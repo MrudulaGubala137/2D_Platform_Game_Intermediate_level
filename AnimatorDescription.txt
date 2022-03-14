@@ -1,0 +1,2 @@
+Animator controller allows you to arrange and maintain a set of animation clips and associated
+animations transitions for a character or a object.
